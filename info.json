@@ -1,0 +1,9 @@
+{
+  "name": "fast-wood-flooring",
+  "version": "0.0.1",
+  "title": "Fast Wood Flooring",
+  "author": "cdaringe",
+  "dependencies": ["base"],
+  "description": "Springy wood flooring that can be used to create paths that increase the walking speed by 4x.",
+  "factorio_version":"0.16"
+}
